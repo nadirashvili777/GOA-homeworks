@@ -1,0 +1,6 @@
+name ="Nika"
+age =16
+address ="Gldani_First_Mikro"
+height = 1.87
+weight = 72 
+print(name, age, address, height, weight)

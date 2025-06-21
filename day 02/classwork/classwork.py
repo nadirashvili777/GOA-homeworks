@@ -1,0 +1,5 @@
+print( 2+3 )
+print( 15-7 )
+print( 11*11 )
+print( 17/2 )
+print( 17//2 )
