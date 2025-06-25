@@ -1,0 +1,6 @@
+name = input("enter your name:")
+surname = input("enter your surname:")
+age = input("enter your age:")
+address = input("enter your addres:")
+hobby = input("enter your hobby :") 
+favorite_movie = input("enter your favorite movie :")
